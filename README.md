@@ -1,6 +1,6 @@
 # Snake-spel med Pygame
 
-Det här repot innehåller ett Snake-spel byggt med Pygame-ramverket. Spelet är utformat med principer för objektorienterad programmering (OOP) och Entity-Component-System (ESC) designmönster.
+Det här repot innehåller ett Snake-spel byggt med Pygame-ramverket. Spelet är utformat med principer för objektorienterad programmering (OOP) och Entity-Component-System (ECS) designmönster.
 
 ## Funktioner
 
