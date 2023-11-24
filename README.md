@@ -11,7 +11,7 @@ Det här repot innehåller ett Snake-spel byggt med Pygame-ramverket. Spelet är
 ## Installation
 
 Ingen installation krävs om du använder Replit-versionen av spelet. Besök följande länk för att spela direkt:
-[Spela Snake på Replit](https://replit.com/teams/import/svoxniwhihbasupj-nti-tillmpat-programmering-2a)
+[Spela Snake på Replit](https://replit.com/teams/import/svoxniwhihbasupj-nti-tillmpat-programmering-2)
 
 För att köra spelet lokalt:
 
